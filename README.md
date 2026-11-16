@@ -54,9 +54,9 @@ Tests bundled inside 82, run on the published build. The weakest score is publis
 
 The weakest score: Apple's free on-device model alone heard 2 of 4 test phrases exactly and solved 1 of 7 coding tasks on this build.
 
-Build `20261116155143` · v0.2.0 · 450 release checks passed · measured 16 November 2026. Every test and every score: **[meet82.com/proof](https://meet82.com/proof)**
+Build `20261116233441` · v0.2.0 · 450 release checks passed · measured 16 November 2026. Every test and every score: **[meet82.com/proof](https://meet82.com/proof)**
 
-<p align="center"><img src="screen-proof.jpg" alt="Proof inside 82, build 20261116155143" width="100%"></p>
+<p align="center"><img src="screen-proof.jpg" alt="Proof inside 82, build 20261116233441" width="100%"></p>
 
 ## Yours, on your Mac.
 
