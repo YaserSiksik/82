@@ -12,8 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://meet82.com/access"><b>The list is open. Get on it before everyone else does →</b></a>
+  <a href="https://meet82.com/access"><b>The waiting list is open. Get on it before everyone else does →</b></a>
 </p>
+
+<p align="center"><sub>⭐ Star this repo to keep 82 on your radar · Watch it to hear the news first</sub></p>
 
 <p align="center"><sub>Not an app. Not an agent. Not a chatbot.</sub></p>
 
@@ -71,6 +73,8 @@ Signed and notarized by Apple · Developer ID `N5BW9X8L3X`
 You won't find code or an app in this repository. 82 opens to a small circle at a time, through the waiting list.
 
 **[Request access at meet82.com →](https://meet82.com/access)**
+
+⭐ Star this repo to keep 82 on your radar.
 
 Apple silicon (M1 or later) · macOS 14 or later · 1.5 GB
 
